@@ -1343,8 +1343,8 @@ input::-moz-focus-inner {
   transition: all 0.3s ease-in-out;
 }
 .header-logo img {
-  width: 200px;
-  height: 38px;
+  width: 100px;
+  height: 100px;
 }
 
 
@@ -1629,8 +1629,8 @@ input::-moz-focus-inner {
     left: 30px;
   }
   .header-logo img {
-    width: 180px;
-    height: 34px;
+    width: 100px;
+    height: 100px;
   }
 
   .header-menu-toggle {
@@ -3411,5 +3411,7 @@ html.no-csstransitions .home-content__main {
     display: none;
   }
 }
-
+.strong{
+  font-weight: 900;
+}
 /*# sourceMappingURL=main.css.map */
