@@ -3414,4 +3414,13 @@ html.no-csstransitions .home-content__main {
 .strong{
   font-weight: 900;
 }
+.gold{
+  color:#FFD700;
+}
+.silver{
+  color:#C0C0C0;
+}
+.copper{
+  color:#C47222;
+}
 /*# sourceMappingURL=main.css.map */
